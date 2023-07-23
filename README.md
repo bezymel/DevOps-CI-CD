@@ -34,6 +34,9 @@
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
 ### Ответ 1
+![image](https://github.com/bezymel/DevOps-CI-CD/assets/129361495/669202cc-a8ea-4494-8318-361f90db9376)
+![image](https://github.com/bezymel/DevOps-CI-CD/assets/129361495/d34983fe-795e-4152-a229-0c603bcd9518)
+
 
 
 
