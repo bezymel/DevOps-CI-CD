@@ -37,6 +37,7 @@
 ![image](https://github.com/bezymel/DevOps-CI-CD/assets/129361495/669202cc-a8ea-4494-8318-361f90db9376)
 ![image](https://github.com/bezymel/DevOps-CI-CD/assets/129361495/d34983fe-795e-4152-a229-0c603bcd9518)
 ![image](https://github.com/bezymel/DevOps-CI-CD/assets/129361495/3f2fda8e-c54c-467c-bf3b-6678395276fb)
+![image](https://github.com/bezymel/DevOps-CI-CD/assets/129361495/4c3e3e78-6611-4573-b780-395f6d232bcb)
 
 
 
